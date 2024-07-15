@@ -8,7 +8,7 @@ How to View:
   3. Open the Power BI file (.pbix) in Power BI Desktop.
   4. Explore the dashboards, reports, and visualizations to gain insights into the sales data.
 
-Data Used :- The sales data used in this project is provided in the repository as a CSV file named "aabbd.csv". This file contains the following data:
+Data Used :- The sales data used in this project is provided in the repository as a CSV file named "SuperStore_Sales_Dataset.csv". This file contains the following data:
   - Sales transactions
   - Customer information
   - Product details

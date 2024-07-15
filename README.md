@@ -8,19 +8,18 @@ How to View:
   3. Open the Power BI file (.pbix) in Power BI Desktop.
   4. Explore the dashboards, reports, and visualizations to gain insights into the sales data.
 
-Data Used :- The sales data used in this project is provided in the repository as a CSV file named "SuperStore_Sales_Dataset.csv". This file contains the following data:
-  - Sales transactions
-  - Customer information
-  - Product details
-  - Time period (date, month, quarter, year)
+Data Used :- The sales data used in this project is provided in the repository as a CSV file named "SuperStore_Sales_Dataset.csv". 
+
+Chart Names: - Sales by Segment - Sales by Payment Mode - Sales by Ship Mode - Monthly Profit YoY - Monthly Sales YoY - Sales by State - Sales by Category - Top 5 Sub Category by Sales
+  KPIs: Sales, Quantity, Profit, Avg Delivery Time Taken to Deliver Product
 
 Features :- 
-  - Data Loading: The project uses Power BI's data loading capabilities to connect to the sales data.
-  - Data Cleaning: The project uses Power BI's data cleaning features to handle missing values, remove duplicates, and perform data normalization.
-  - Data Modeling: The project uses Power BI's data modeling features to create a robust data model.
-  - DAX Formulas: The project uses DAX formulas to create calculations and measures for analysis.
-  - Visualization: The project uses Power BI's visualization tools to create interactive dashboards and reports.
-  - Filtering and Slicing: The project uses Power BI's filtering and slicing capabilities to enable users to narrow down the data by various dimensions.
+  - Import Data: Connect to the CSV file and import data into Power BI
+  - Clean and Process Data: Handle missing values, remove duplicates, and perform data normalization
+  - DAX: Use DAX formulas to create calculations and measures for analysis
+  - Advanced Charts: Use advanced chart types to visualize data
+  - Design Dashboard: Create a user-friendly dashboard to display key metrics and insights
+  - Filters and Slicers: Enable filtering and slicing of data
 
 Contact Information :- For any questions or feedback, you can reach out via:
 
